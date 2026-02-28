@@ -1,0 +1,6 @@
+@HomeBites_HostAddress = http://localhost:5224
+
+GET {{HomeBites_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
